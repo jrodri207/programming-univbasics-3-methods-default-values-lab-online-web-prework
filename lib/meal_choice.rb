@@ -11,4 +11,4 @@ end
 expect(meal_choice("peas", "carrots"))).to eq("A plate of meat with peas and carrots.")
 end
 
-
+meal_choice
